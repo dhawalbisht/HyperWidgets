@@ -82,7 +82,7 @@ const Home = () => {
                     <Route path="/" element={
                         <div>
                             <h1 className="text-5xl font-bold mb-6 text-white text-center">
-                                <Typewriter text="Digital Notice Board" delay={80} />
+                                <Typewriter text="Hyper Widgets" delay={80} />
                             </h1>
                             <div className="grid grid-cols-1 md:grid-cols-4 gap-6 text-white">
                                 {visibleWidgets.googleSlides && <GoogleSlides onClose={() => handleClose('googleSlides')} />}
