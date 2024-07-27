@@ -87,7 +87,7 @@ const Admin = () => {
             {success && <div className="text-green-600 mb-4">{success}</div>}
 
             <form onSubmit={handlePollSubmit} className="bg-gray-900 p-6 rounded-lg shadow-lg mb-8">
-                <h2 className="text-2xl font-semibold mb-4">Update Poll</h2>
+                <h2 className="text-2xl font-semibold mb-4  ">Update Poll</h2>
                 <div className="mb-4">
                     <label htmlFor="question" className="block text-gray-300">Poll Question</label>
                     <input
