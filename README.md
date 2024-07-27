@@ -4,10 +4,10 @@ Brief description of your project.
 
 ## Screenshots
 
-![Widgets](screenshots/widgets1.jpg)
+![Widgets](https://raw.githubusercontent.com/dhawalbisht/HyperWidgets/main/screenshots/screenshot1.jpg)
 
-![Widgets](screenshots/widgets2.jpg)
+![Widgets](https://raw.githubusercontent.com/dhawalbisht/HyperWidgets/main/screenshots/widgets2.jpg)
 
-![Admin Login](screenshots/adminLogin.jpg)
+![Admin Login](https://raw.githubusercontent.com/dhawalbisht/HyperWidgets/main/screenshots/adminLogin.jpg)
 
-![Admin Panel](screenshots/adminPanel.jpg)
+![Admin Panel](https://raw.githubusercontent.com/dhawalbisht/HyperWidgets/main/screenshots/adminPanel.jpg)
